@@ -1,0 +1,5 @@
+bin/
+obj/
+.vscode/
+*.mgstats
+*.mgcb.cache
